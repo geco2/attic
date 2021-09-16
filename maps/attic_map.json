@@ -111,7 +111,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"..\/mp3\/frametraxx_preview_Walking-on-Air.mp3"
+                 "value":"https:\/\/coderadio-admin.freecodecamp.org\/radio\/8010\/radio.mp3?1564340326"
                 }],
          "type":"tilelayer",
          "visible":true,
