@@ -165,7 +165,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/github.com\/geco2\/attic\/tree\/master\/pictures\/map.png"
+                 "value":"https:\/\/geco2.github.io\/attic\/pictures\/map.png"
                 }],
          "type":"tilelayer",
          "visible":true,
